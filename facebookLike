@@ -1,0 +1,4 @@
+for( i = 1;i<document.getElementsByClassName("UFILikeLink").length;i++) {
+document.getElementsByClassName("UFILikeLink")[i].click();
+}
+void(0);
