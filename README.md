@@ -1,9 +1,11 @@
 RandomJSstuff
 =============
 
-This is a repo of various different basic Javascript snippets to click, type, etc.,. This is used only for educational purposes and should NOT be misused. Many social media sites have automated spam banning functionalities, so on those sites, use or overuse of these programs may results in banning, suspension, or other similar consequences. Use responsibly and at your own risk.
+This is a repo of various different basic Javascript snippets to click, type, etc. This is used only for educational purposes and should <strong>NOT</strong> be misused. Many social media sites have automated spam banning functionalities, so on those sites, use or overuse of these programs may results in banning, suspension, or other similar consequences. 
 
-Currently functioning: 
+<strong>Use responsibly and at your own risk.</strong>
+
+**Currently functioning:**
 
 <ul>
 <li>facebookLike</li>
@@ -12,7 +14,7 @@ Currently functioning:
 </ul>
 
 
-In testing: 
+**In testing:** 
 
 <ul>
 <li>facebookComment</li>
