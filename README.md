@@ -5,7 +5,7 @@ This is a repo of various different basic Javascript snippets to click, type, et
 
 <h3>Use responsibly and at your own risk.<h3>
 
-To use, open up the console and paste in the code.
+To use, open up the console* and paste in the code.
 
 **Currently functioning:**
 
@@ -20,4 +20,11 @@ To use, open up the console and paste in the code.
 
 <ul>
 <li>facebookComment</li>
+</ul>
+
+*
+**To open up the console:**
+<ul>
+<li>Use the keyboard shortcut Command - Option - J (Mac) or Control -Shift -J (Windows/Linux)</li>
+<li>Select View > Developer > JavaScript Console</li>
 </ul>
