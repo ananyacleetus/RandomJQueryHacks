@@ -13,6 +13,7 @@ To use, open up the console* and paste in the code.
 <li>facebookLike</li>
 <li>deleteFacebookGroupMembers</li>
 <li>twitterFollow</li>
+<li>facebookAcceptRejectFriends</li>
 </ul>
 
 
