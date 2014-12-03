@@ -1,5 +1,6 @@
 RandomJSstuff
-=============
+===============
+[![npm version](https://badge.fury.io/js/jquery.svg)](http://badge.fury.io/js/jquery)
 
 This is a repo of various different basic Javascript snippets to click, type, etc. This is used only for educational purposes and should <strong>NOT</strong> be misused. Many social media sites have automated spam banning functionalities, so on those sites, use or overuse of these programs may results in banning, suspension, or other similar consequences. 
 
